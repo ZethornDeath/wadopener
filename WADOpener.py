@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import filedialog
 import os
 
-print("Made by ZethronDeath (https://github.com/ZethornDeath)")
+print("Made by ZethornDeath (https://github.com/ZethornDeath)")
 
 def load_wad():
     wad_filename = filedialog.askopenfilename(filetypes=[("WAD Files", "*.wad")])
